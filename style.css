@@ -1,0 +1,103 @@
+@font-face{
+	src: url(font.otf);
+	font-family: myFont;
+}
+h1{
+	font-size: 1000%;
+	text-align: center;
+	font-family: myFont;
+}
+button{
+	color: white;
+	background: brown;
+}
+.flex{
+	display: flex;
+ }
+.button{
+	margin: auto;
+	}
+.header{
+	height: 200px;
+	text-align: center;
+	padding-top: 50px;
+}
+.menu{
+	background: brown;
+	height: 75px;
+	text-align: center;
+}
+.BOSS{
+	background: #ffa954;
+	height: ;
+	margin-left: auto;
+	margin-right: auto;
+}
+.banner{
+	height: 1900px;
+	background-image: url(banner123.jpg);
+	background-size: 100% 100%;
+	padding-bottom: 50px;
+	padding-top: 100px;
+}
+.aksii{
+	height: 1400px;
+	padding-top: 100px;
+	margin-left: auto;
+}
+.menuedi{
+	height: 2000px;
+	padding-top: 100px;
+}
+.kino{
+	height: 2000px;
+	padding-bottom: 100px;
+}
+.interer{
+	height: 1200px;
+	padding-top: 100px;
+}
+.margin{
+	margin-left: 400px;
+}
+.ak{
+	height: 900px;
+	width: 800px;
+	margin-left: 100px;
+}
+.margin1{
+	margin-left: 1000px;
+}
+.film{
+	height: 1000px;
+	width: 1000px;
+	margin-left: 100PX;
+	margin-left: auto;
+	margin-right: auto;
+}
+h2{
+	font-size: 100px;
+}
+.buy{
+	font-size: 50px;
+}
+.ikonka{
+	margin-left: 200px;
+}
+.kartinka{
+	height: 700px;
+	width: 600px;
+}
+.otsiv{
+	margin-top: 50px;
+}
+.end{
+	height: 400px;
+	text-align: center;
+}.auto{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
